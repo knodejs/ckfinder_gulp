@@ -1,0 +1,21 @@
+{
+  "name": "hello",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Narongchai Thongkongkeaw <kerlang.2515@gmail.com>"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4"
+  }
+}
