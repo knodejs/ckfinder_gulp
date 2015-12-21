@@ -6,7 +6,8 @@ Set Path Php 7 gulpfile.js
 
 
 edit config  php.ini
-	document/php7.ini.readme
+	
+	* <a href="document/php7.ini.readme">document/php7.ini.readme/</a>
 
 
 
