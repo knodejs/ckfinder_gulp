@@ -7,8 +7,7 @@ Set Path Php 7 gulpfile.js
 
 edit config  php.ini
 	
-	* <a href="document/php7.ini.readme">document/php7.ini.readme/</a>
-
+[a relative link](document/php7.ini.readme)
 
 
 run : npm install & bower install & npm install gulp -g 
