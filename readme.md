@@ -17,7 +17,8 @@ run : gulp
 
 
 demo page
-http://localhost:8000 
+* <a href="http://localhost:8000">http://localhost:8000/</a> 
 
 All/integrate Ckditor
-http://localhost:3000/samples/index.html
+
+* <a href="http://localhost:3000/samples/index.html">http://localhost:3000/samples/index.html</a> 
