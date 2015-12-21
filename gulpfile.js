@@ -8,11 +8,11 @@ gulp.task('default', function() {
         hostname: '0.0.0.0',
         bin: 'D:/Developer/WebServer/php-7.0.1-nts-Win32-VC14-x64/php',
         ini: 'D:/Developer/WebServer/php-7.0.1-nts-Win32-VC14-x64/php.ini',
-        port: 3099
+        port: 3000
 
     }, function() {
         browserSync({
-            proxy: '127.0.0.1:3099'
+            proxy: '127.0.0.1:3000'
         });
     });
 });
