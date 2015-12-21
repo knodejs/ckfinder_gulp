@@ -15,8 +15,4 @@ gulp.task('default', function() {
             proxy: '127.0.0.1:8000'
         });
     });
-
-    //gulp.watch('**/*.php').on('change', function() {
-        //browserSync.reload();
-    //});
 });
